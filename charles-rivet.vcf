@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rivet;Charles;;;
+FN:Charles Rivet
+ORG:Ayming Canada
+TITLE:National Growth Director
+TEL;TYPE=WORK,VOICE:+1-416-702-7163
+EMAIL;TYPE=WORK:charles.rivet@ayming.ca
+ADR;TYPE=WORK:;;5353 Dundas St W #105;Etobicoke;ON;M9B 6H8;Canada
+URL:https://www.ayming.ca
+END:VCARD
