@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Salmas;John;;;
+FN:John Salmas
+ORG:Ayming Canada
+TEL;TYPE=WORK,VOICE:+1-604-928-6554
+EMAIL;TYPE=WORK:jsalmas@ayming.ca
+ADR;TYPE=WORK:;;999 Canada Pl 1001 Suite 598;Vancouver;BC;V6C 3T4;Canada
+URL:https://www.ayming.ca
+END:VCARD
